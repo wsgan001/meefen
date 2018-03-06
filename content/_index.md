@@ -1,5 +1,8 @@
 ---
-title: Home
+title: Homepage
+date: '2018-03-01'
+disable_mathjax: true
+disable_highlight: true
 ---
 
 <img src="http://bodong.ch/assets/images/bodong.jpg" style="max-width:20%;min-width:80px;float:right;" alt="Bodong Chen" />

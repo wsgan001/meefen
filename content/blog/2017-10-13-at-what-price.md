@@ -4,10 +4,12 @@ date: '2017-10-13'
 categories: blog
 tags:
 - musing
-comments: true
-image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Mordecai_MOREH_-_Tree_of_Knowledge_%28Initiation%29.jpg
 ---
-_(Photo Credit: [Wikipedia](https://commons.wikimedia.org/wiki/File:Mordecai_MOREH_-_Tree_of_Knowledge_(Initiation).jpg))_
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c5/Mordecai_MOREH_-_Tree_of_Knowledge_%28Initiation%29.jpg)
+
+*(Photo Credit: [Wikipedia](https://commons.wikimedia.org/wiki/File:Mordecai_MOREH_-_Tree_of_Knowledge_(Initiation).jpg))*
+
 
 The universe is expanding<span style="color: white">, but at what price.</span><br>
 The Milky Way is a beauty<span style="color: white">, but at what price.</span><br>
