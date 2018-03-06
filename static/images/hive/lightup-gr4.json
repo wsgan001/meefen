@@ -1,0 +1,707 @@
+[
+ {
+ "x":      3,
+"y":   0.05,
+"id": "C1",
+"text": "1. assess the impact on society and the environment of technological innovations related\nto light and sound;",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.097368,
+"id": "C2",
+"text": "2. investigate the characteristics and properties of light and sound;",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.14474,
+"id": "C3",
+"text": "3. demonstrate an understanding of light and sound as forms of energy that have specific\ncharacteristics and properties.",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.19211,
+"id": "C5",
+"text": "1.2 assess the impacts on society and the environment\nof light and/or sound energy produced\nby different technologies, taking different perspectives\ninto account (e.g., the perspectives of\nsomeone who has to walk on the street late at\nnight, a cottage owner, a person who is hearing\nimpaired, manufacturers of and merchants who\nsell MP3 players) - Sample issues: (a) Streetlights increase visibility\nand make areas safer for people to move\nabout in the city at night. However, they use\nlarge amounts of electrical energy and contribute\nto light pollution that obscures the\nfeatures of the night sky. Also, birds may be\ndisoriented by lights from tall buildings and\nmay be killed when they hit the buildings.\n(b) Items like gasoline-powered lawn mowers\nand leaf blowers make work easier, and items\nlike jet skis provide enjoyment to the user.\nHowever, these technologies also create noise\npollution. (c) Advances in electronic technology\nhave allowed us to develop hearing aids for\npeople who might never have been able to\nhear well without them. However, these same\nadvances have allowed us to create powerful -sound systems and devices like personal\nmusic players that can be played at volume\nlevels that annoy others and are potentially\ndamaging to human hearing.",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.23947,
+"id": "C6",
+"text": "2.1 follow established safety procedures for protecting\neyes and ears (e.g., use proper eye and\near protection when working with tools)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.28684,
+"id": "C7",
+"text": "2.2 investigate the basic properties of light\n(e.g., conduct experiments to show that light\ntravels in a straight path, that light reflects off\nof shiny surfaces, that light refracts [bends]\nwhen passing from one medium to another,\nthat white light is made up of many colours,\nthat light diffracts [bends and spreads out]\nwhen passing through an opening)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.33421,
+"id": "C8",
+"text": "2.3 investigate the basic properties of sound\n(e.g., conduct experiments to show that sound\ntravels, that sound can be absorbed or reflected,\nthat sound can be modified [pitch, volume],\nthat there is a relationship between vibrations\nand sound)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.38158,
+"id": "C9",
+"text": "2.4 use technological problem-solving skills\n(see page 16) to design, build, and test a\ndevice that makes use of the properties of\nlight (e.g., a periscope, a kaleidoscope) or\nsound (e.g., a musical instrument, a sound\namplification device) - Sample guiding questions: How might you\nuse what you know about sound or about\nlight and mirrors in your device? Which\nproperties of light or sound will be most useful\nto you in your device? What challenges\nmight you encounter, and how can you overcome\nthem?",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.42895,
+"id": "C10",
+"text": "2.5 use scientific inquiry/research skills (see\npage 15) to investigate applications of the\nproperties of light or sound (e.g., careers where\nknowledge of the properties of light and/or sound\nplay an important role [photography, audio\nengineering]; ways in which light and/or sound\nare used at home, at school, and in the community;\nways in which animals use sound)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.47632,
+"id": "C11",
+"text": "2.6 use appropriate science and technology vocabulary,\nincluding natural, artificial, beam of\nlight, pitch, loudness, and vibration, in oral and\nwritten communication",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.52368,
+"id": "C12",
+"text": "2.7 use a variety of forms (e.g., oral, written, graphic,\nmultimedia) to communicate with different\naudiences and for a variety of purposes\n(e.g., create a song or short drama presentation\nfor younger students that will alert them to the\ndangers of exposure to intense light and sound)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.57105,
+"id": "C13",
+"text": "3.1 identify a variety of natural light sources\n(e.g., the sun, a firefly) and artificial light\nsources (e.g., a candle, fireworks, a light bulb)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.61842,
+"id": "C14",
+"text": "3.2 distinguish between objects that emit their\nown light (e.g., stars, candles, light bulbs) and\nthose that reflect light from other sources\n(e.g., the moon, safety reflectors, minerals)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.66579,
+"id": "C15",
+"text": "3.3 describe properties of light, including the following:\nlight travels in a straight path; light\ncan be absorbed, reflected, and refracted",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.71316,
+"id": "C16",
+"text": "3.4 describe properties of sound, including the following:\nsound travels; sound can be absorbed\nor reflected and can be modified (e.g., pitch,\nloudness)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.76053,
+"id": "C17",
+"text": "3.5 explain how vibrations cause sound",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.80789,
+"id": "C18",
+"text": "3.6 describe how different objects and materials\ninteract with light and sound energy\n(e.g., prisms separate light into colours; voices\necho off mountains; some light penetrates\nthrough wax paper; sound travels further\nin water than air)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.85526,
+"id": "C19",
+"text": "3.7 distinguish between sources of light that give\noff both light and heat (e.g., the sun, a candle,\nan incandescent light bulb) and those that give\noff light but little or no heat (e.g., an LED, a\nfirefly, a compact fluorescent bulb, a glow stick)",
+"overlap": [] 
+},
+{
+ "x":      3,
+"y": 0.90263,
+"id": "C20",
+"text": "3.8 identify devices that make use of the properties\nof light and sound (e.g., a telescope, a\nmicroscope, and a motion detector make use of\nthe properties of light; a microphone, a hearing\naid, and a telephone handset make use of the\nproperties of sound)",
+"overlap": [] 
+},
+{
+ "x":      1,
+"y":   0.05,
+"id": "N1",
+"text": "The survival group did a experement on worms senseing light. We know worms sense light because we shind light on worms and they went under the black paper.",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C7",
+"C8",
+"C10",
+"C11",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.0725,
+"id": "N2",
+"text": "{[My theory]:}{[I need to understand]:}is that worms hate the light.   if its because it hurts their eyes.  Worms like it dark and moist.",
+"overlap": [
+ "C1",
+"C7",
+"C8",
+"C9",
+"C10",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19",
+"C20" 
+] 
+},
+{
+ "x":      1,
+"y":  0.095,
+"id": "N3",
+"text": "yes they do but they don`t sense red light.",
+"overlap": [
+ "C1",
+"C2",
+"C7",
+"C8",
+"C9",
+"C10",
+"C12",
+"C13",
+"C14",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.1175,
+"id": "N4",
+"text": "{[My theory]:}/ our theory is that light gets smaller instead of fading but it only gets smaller when it's farthert away",
+"overlap": [
+ "C1",
+"C12",
+"C20" 
+] 
+},
+{
+ "x":      1,
+"y":   0.14,
+"id": "N5",
+"text": "{[My problem  of understanding]:}I thought worms do not have eyes, so then how do they sense light?",
+"overlap": [
+ "C6",
+"C7",
+"C8",
+"C10",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.1625,
+"id": "N6",
+"text": "{[I need to understand]:}what your evidence is for your theory that worms do not see red light ",
+"overlap": [
+ "C6",
+"C7",
+"C8",
+"C10",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":  0.185,
+"id": "N8",
+"text": "I think that light travels in a serpentine manor because I did an Experiment on it. ",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C11" 
+] 
+},
+{
+ "x":      1,
+"y": 0.2075,
+"id": "N9",
+"text": "Well I diss-agree because what if the waves/zig-zags are so tiny that it looks like it's going straight!",
+"overlap": [
+ "C7",
+"C8",
+"C10",
+"C12",
+"C13",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":   0.23,
+"id": "N10",
+"text": "Video: April 16 and 17\nTitle: makes a rainbow\nsource: Magic school bus\n. The colors of the rainbow are the same order acording to the length of the light waves.\n. Red is the longest light wave there is and violet is the shortest.\n. color and light have a lot in comen\n. Real light travels very fast and you can  not see it\n. if a colored light bounces of a colored object it will be the same color",
+"overlap": [
+ "C15",
+"C17" 
+] 
+},
+{
+ "x":      1,
+"y": 0.2525,
+"id": "N12",
+"text": "I agree because sound waves are probley really tiny so we think that its invisable but light waves brighten places up so they look bigger but are really small and prouduce a lot of light",
+"overlap": [
+ "C7",
+"C10",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":  0.275,
+"id": "N13",
+"text": "{[I need to understand]:}Let's just say ifthe light travels in zig zag motion what makes the zig-zag go up then what makes it stop and go down.\n\n\n[[][from 2985]]",
+"overlap": [
+ "C5",
+"C6",
+"C7",
+"C10",
+"C11",
+"C12",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.2975,
+"id": "N14",
+"text": "I think that light travels in a strait.",
+"overlap": [
+ "C7",
+"C10",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":   0.32,
+"id": "N15",
+"text": "The onlt reson richard said light travels in zig-zags was to get us to say somthing important about light in cross talk",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C11" 
+] 
+},
+{
+ "x":      1,
+"y": 0.3425,
+"id": "N18",
+"text": "{[My theory]:}is that light travles in a wavie line,because hoh can the sun cover the whole half of the earth??[[][from 2987]]",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":  0.365,
+"id": "N19",
+"text": "{[My theory]:}Is that ligh travels in a wave.\n\n\n\n                             \n\n\n\n\n               [[][from 3030]]",
+"overlap": [
+ "C5",
+"C6",
+"C11",
+"C16" 
+] 
+},
+{
+ "x":      1,
+"y": 0.3875,
+"id": "N20",
+"text": "{[My theory]:}is that light travels out of a lightbulb straight                                         but goes everywhere like all the liens of symmetry in a circle.[[][from 2988]]",
+"overlap": [
+ "C5",
+"C6",
+"C7",
+"C10",
+"C11",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":   0.41,
+"id": "N21",
+"text": "{[My theory]:}is that light travles in waves because when we did an exparment with progecters and a tennis ball hanging from the cealing on a piece of string. And when we shone light on it the tennis balls shador was clear. But the strings shadow had some light on it, proving that some light got behind the string.  This happened because light travels in waves. \n\n[[][from 3028]]",
+"overlap": [
+ "C7",
+"C10",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.4325,
+"id": "N22",
+"text": "{[My theory]:}is that light travels in a ripple waves like when you hit the water with your hand when you throw two rocks into the water they don't hit each other they overlap each other.here is a picture to explin it more.\n\n[[][from 2991]]",
+"overlap": [
+ "C1",
+"C6",
+"C7",
+"C10",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y":  0.455,
+"id": "N23",
+"text": "On April 25 , M.R. and Nathalie where trying an experament. We were trying to make a rainbow with a flat prism. We derected the prism at the sun trying to make a rainbow. We saw the (instead of a rainbow)light standing like a post . And it was swirling!\n [[][from 3045]]",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y": 0.4775,
+"id": "N24",
+"text": "{[My theory]:}is called the Tube Theory.  I think that Light travels in a tube or cylinder with wave in a criss-cross pattern. Because light appears to be travelling in a line, but waves could be inside the tube, but also the waves inside could bend the lines when light travels through a prism. We see light travelling in a straight line because our eyes cannot see the waves in the tube.   \n [[][from 3041]]",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C7",
+"C10",
+"C11",
+"C12",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y":    0.5,
+"id": "N25",
+"text": "yes the sun  can couver the whole half of the earth because the sun is far away and the sun is so big. That is why on the other side of the earth  it is night  and hear it's day. ",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C11",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y": 0.5225,
+"id": "N26",
+"text": "{[New information]:}In 1801 Thomas Young showed that light travels in  a wave. He did that by an  experiment.  This is what he did. He took a single light sorce and took a board and cut two pinholes in the board, then he shone shone the light through the pinholes.  On the other side of the wall the light  shows a pattern.  It goes light light, dark, light light ect.  What I mean is that instead of only making two light spots on the wall, he proved that 6 light spots were created.  This proves that light must travel in a wavy line.  If light travelled in a straight line, he should only have made two light spots on the wall.  I did this experiment in class and got the same results.  I used straight lines in my drawing to show how the wavy lines travel.\n\n\n[[][from 3032]]",
+"overlap": [
+ "C7",
+"C10",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":  0.545,
+"id": "N27",
+"text": "{[My theory]:}Is that Light travels in a straight line but the energy is wavy. I also think that light travel in a straight line because people are always saying that light waves are to small to see, well then how do all those scientest prove that light travels in a straight line. [[][from 3006]]",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y": 0.5675,
+"id": "N28",
+"text": "{[My theory]:} is that light tarvels in ripple   waves . We had a debate and here are some jot dots that I wrote: \nalll types of lightmove in wave- like pattens\nin each wave like patten you can see high points and low points\nthe distance between two high points and low points is called wavelength\nscinentist usethe Greek letter lambda to discribe the distance between two high points ( or low points) \ndepending on what type of light your talking about, each has a different lambdaor wavelength\nall wavelength of light together are called EM sectra\nnot only not only does light move in waves it also moves with a flow of little particles\nscientist call these particles photons\nthe packets contain the energy that makes up  the energy of light\nscientist measure something called relative energy\nrelative energy is inverse measure  of the wavelewngth\nif a type of light has a shorter wavelength it has higher energy\nif you compare different types of light you'll see that as you move the EM sectrum and the wavelengths get smaller those types of light have more energy\nlight is both waves and energy ( transmitted with particles)",
+"overlap": [
+ "C6",
+"C7",
+"C8",
+"C10",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":   0.59,
+"id": "N29",
+"text": "{[My theory]:}{[I need to understand]:}{[My theory]:}is that light light can turn stuff but unless it's naturel light it's not very powerful.  But We (Daniel,Julius, and I) still haven't proven light can make things do stuff.  So concluding I think light can make things do stuff.if light were powerful enough to turn things could'nt it move things like plants, clothes, and computers or at least push them over.\nwhat will happen is that the light mill will grow very hot and start turning because light will hit the shiny part and bounce off, the impact of the light will make it move.",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C11" 
+] 
+},
+{
+ "x":      1,
+"y": 0.6125,
+"id": "N30",
+"text": "or my theor why light can make things do stuff is that light has traveled about 1,000,000 miles from the sun and is still very bright to our eyes,and the earth gravitational pull will souck light in just like any thing else and make it burn up into invisible flame and make an impact on shiny things make them move but is powerless to people. ",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C7",
+"C10",
+"C11",
+"C12",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y":  0.635,
+"id": "N31",
+"text": "{[My theory]:}{[Evidence]:}When we had the class debate, I was the one and only student who was not on a side because my theory was light travels in waves, but the waves go in a strait line and the debate was between straight line and waves.  And now we have lots of ideas from the debate and we don't know which one is right. now is light travels sort of like this:  Light travels in a straight line but appears to be wavy or light travels in waves but appears to be straight.  That means that light has aspects of both straight lines and waves.  It depends on how you look at it.  Or what your experiment is trying to prove.  In our class we have seen experiments that prove both that light travels in straight lines (box with powder and shadow experiments) and wavy lines (Thomas Young experiment).  [[][from 3033]]",
+"overlap": [
+ "C2",
+"C7",
+"C8",
+"C9",
+"C10",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.6575,
+"id": "N32",
+"text": "l think light travles in a wavie line.But there are other theorys too some people think light travles in a strate line or a ripple[[][from 3009]]",
+"overlap": [
+ "C7",
+"C10",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":   0.68,
+"id": "N33",
+"text": "My theory is that light travels in ripple waves. Elana gave me the idea.  I did think that light travels in a straight line but than some students told me some experiments to do and when I did it it changed my mind.",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.7025,
+"id": "N34",
+"text": "{[My theory]:}is that light travels in a wavey lines because if you drive behind a bus you'll see heat that look in a wavey.",
+"overlap": [
+ "C1",
+"C20" 
+] 
+},
+{
+ "x":      1,
+"y":  0.725,
+"id": "N35",
+"text": "I think light travles in waves because I found it in books and the internet.",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C7",
+"C10",
+"C11",
+"C12",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y": 0.7475,
+"id": "N36",
+"text": "{[Putting our knowledge together]:}I agree with you because my theory is that light travels in a straight line but it is a wave. Light is made up of the electromagnetic waves ",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C12",
+"C13",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":   0.77,
+"id": "N37",
+"text": "{[Evidence]:}{[My theory]:}Is that light travels in a wave around a straight line.  The way I think that waves travel is an a cancelation wave.  A cancelation wave is when there is an invisible line that goes up,down, up, down, Etc.  The top part of the wave is called a peak and the bottom part is called a trough.  I think that each peak cancels out each trough and so we are left with a straight line.  The wave becomes straight.\nI got my evidence at Http//Google.ca\n\n\n\n\n                     [[][from 3040]]",
+"overlap": [
+ "C6",
+"C7",
+"C8",
+"C10",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.7925,
+"id": "N38",
+"text": "{[A better theory]:}    When I was in Montreal me and my brothers were on an outing with my dad and my uncle.  We seperated into two groups and i was with my uncle.  I told him about waht we were studying(light) and few things about light that we found out.  When I go to the part about how light travels he dissagreed.  He said that LIGHT TRAVELS IN WAVY LINES!!  He said that those lines go up and down but they are so small that they look totally straight.  He also said that if light travels in big(but still microscopic)waves it goes slower but if it travels in smaller waves it goes faster.  I believe him because it makes sense to me.  Please build on if you have something to say about this.  I think it makes more sense mostly because of the rainbow.  there are different colour WAVES are all on the same frequency until they hit a prism(as white light).  the prism  changes each coloured light waves frequency.  Red has the new longest wave and voilet has the shortest",
+"overlap": [
+ "C6",
+"C7",
+"C8",
+"C10",
+"C12",
+"C13",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":  0.815,
+"id": "N39",
+"text": "I disagree because light is probley teeny tiny but is pretty strong so it makes itself look really strong and lights up a room. But since its teeny tiny it makes itself look like a straight line ",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.8375,
+"id": "N40",
+"text": "{[My theory]:}is that light travels in waves because almost where ever you look for how light travels it will almost always say that light travels in waves also my book said that light light waves are shoter then ULTRA VOILET WAVES!!!!!!! And ultra voilet waves are invisable to our eyes so its almost impossible to make an exparament that proves it but i think that it was proved a long time ago that light travels in waves and a lot of people already know that! [[][from 3044]]",
+"overlap": [
+ "C6",
+"C7",
+"C10",
+"C12",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y":   0.86,
+"id": "N41",
+"text": "{[New information]:}{[My theory]:}Is that light travels in wavy lines.  My evidence is www.factmonster.com. There was a sheet of imformation that said that in 1864 a man named James Maxwell proved that light was part of the electromagnetic spectrum thus proving that light travels in wavy lines.\nLight travels at the same rate as radio WAVES!!!",
+"overlap": [
+ "C15",
+"C17" 
+] 
+},
+{
+ "x":      1,
+"y": 0.8825,
+"id": "N42",
+"text": "{[My theory]:}Is that light travels in waves because i went to severel different web sites and they all said that light travels in waves and before we studied light i thought that light travels in waves and in some pictures of light that sciencetests do you see a picture of wavy lines and i think that a lot of people proved a long time ago that light travels in waves so i think that light travels in waves",
+"overlap": [
+ "C3",
+"C5",
+"C6",
+"C7",
+"C10",
+"C11",
+"C12",
+"C18" 
+] 
+},
+{
+ "x":      1,
+"y":  0.905,
+"id": "N43",
+"text": "Light travels in a straight line.If you dont belive me try it by putting a flashlight in a shoebox, make a hole in the shoebox were you're going to put the flashlight, turn off the lights, turn on the flash light and put baby powder were you are flashing the light at.Then you'll see light travels in a straight line. \n\nYou can only see light when dust any semi micob is in the light stream.\n [[][from 2951]]",
+"overlap": [
+ "C6",
+"C7",
+"C8",
+"C10",
+"C12",
+"C13",
+"C14",
+"C18",
+"C19" 
+] 
+},
+{
+ "x":      1,
+"y": 0.9275,
+"id": "N44",
+"text": "What is your uncle's proof?  You can't expect us to belive that just because your uncle said that!  just look at all the work that we did on light and we found out for a fact that light travels in straight lines thank you very much!",
+"overlap": [
+ "C7",
+"C10",
+"C18" 
+] 
+} 
+]

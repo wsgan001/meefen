@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html class="ocks-org do-not-copy">
+<meta charset="utf-8">
+<title>Hive Plots</title>
+<style>
+
+@import url(style.css?aea6f0a);
+
+.axis {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node circle {
+  stroke: #000;
+}
+
+.link {
+  fill: none;
+  stroke: #999;
+  stroke-width: 1.5px;
+  stroke-opacity: .3;
+}
+
+.link.active {
+  stroke: red;
+  stroke-width: 2px;
+  stroke-opacity: 1;
+}
+
+.node circle.active {
+  stroke: red;
+  stroke-width: 3px;
+}
+
+</style>
+<body>
+  <header>
+  <aside>July 28, 2014</aside>
+  <a href="http://meefen.github.io/" rel="author">Bodong Chen</a>
+</header>
+
+<h1>Hive Plots</h1>
+
+<aside>This <b>hive plot</b>, a type of node-link diagram, shows semantic similarity among three types of documents---curriculum standards, students' written notes, and their verbal discussions.
+
+<p>Each dot represents a document, and each line represents a linkage between two documents. 
+
+<p>Built with <a href="http://d3js.org/">d3.js</a>.
+
+<p>Special thanks to <a href="http://bost.ocks.org/mike/">Mike Bostock</a> for his amazing <a href="Mike Bostock">de</a>m<a href="http://bl.ocks.org/mbostock/2066415">os</a>!
+</aside>
+
+<p id="info">Loading...
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.hive.v0.min.js"></script>
+<script>
+
+var width = 960,
+    height = 800,
+    innerRadius = 20,
+    outerRadius = 340,
+    formatNumber = d3.format(",d"),
+    defaultInfo;
+
+var angle = d3.scale.ordinal().domain(d3.range(4)).rangePoints([0, 2 * Math.PI]),
+    radius = d3.scale.linear().range([innerRadius, outerRadius]),
+    color = d3.scale.category10().domain(d3.range(20));
+
+
+
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+// Load the data and display the plot!
+d3.json("lightup.json", function(nodes) {
+
+  var nodesByName = {},
+      links = [],
+      formatNumber = d3.format(",d"),
+      defaultInfo;
+
+  // Construct an index by node name.
+  nodes.forEach(function(d) {
+    d.connectors = [];
+    nodesByName[d.id] = d;
+  });
+
+  // Convert the import lists into links with sources and targets.
+  nodes.forEach(function(source) {
+    source.overlap.forEach(function(targetName) {
+      var target = nodesByName[targetName];
+      if (!source.source) source.connectors.push(source.source = {node: source, degree: 0});
+      if (!target.target) target.connectors.push(target.target = {node: target, degree: 0});
+      links.push({source: source.source, target: target.target});
+    });
+  });
+
+  var info = d3.select("#info")
+      .text(defaultInfo = "Showing " + formatNumber(links.length) + " linkages among " + formatNumber(nodes.length) + " documents.");
+
+svg.selectAll(".axis")
+    .data(d3.range(3))
+  .enter().append("line")
+    .attr("class", "axis")
+    .attr("transform", function(d) { return "rotate(" + degrees(angle(d)) + ")"; })
+    .attr("x1", radius.range()[0])
+    .attr("x2", radius.range()[1]);
+
+svg.append("text")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("transform", function(d) { return "rotate(" + degrees(angle(1)) + ")"; })
+    .attr("dx", radius(1))
+    .text("Notes");
+svg.append("text")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("transform", function(d) { return "rotate(" + degrees(angle(2)) + ")"; })
+    .attr("dx", radius(1))
+    .text("Verbal");
+svg.append("text")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("transform", function(d) { return "rotate(" + degrees(angle(3)) + ")"; })
+    .attr("dx", radius(1))
+    .text("Curriculum");
+
+svg.selectAll(".link")
+      .data(links)
+    .enter().append("path")
+      .attr("class", "link")
+      .attr("d", link()
+      .angle(function(d) { return angle(d.node.x); })
+      .radius(function(d) { return radius(d.node.y); }))
+      .on("mouseover", linkMouseover)
+      .on("mouseout", mouseout);
+      // .style("stroke", function(d) { return color(d.source.x); });
+
+// svg.selectAll(".link")
+//     .data(links)
+//   .enter().append("path")
+//     .attr("class", "link")
+//     .attr("d", d3.hive.link()
+//       .angle(function(d) { return angle(d.x); })
+//       .radius(function(d) { return radius(d.y); }))
+//     .on("mouseover", linkMouseover)
+//       .on("mouseout", mouseout)
+//     .style("stroke", function(d) { return color(d.source.x); });
+
+svg.selectAll(".node")
+    .data(nodes)
+  .enter().append("circle")
+    .attr("class", "node")
+    .attr("transform", function(d) { return "rotate(" + degrees(angle(d.x)) + ")"; })
+    .attr("cx", function(d) { return radius(d.y); })
+    .attr("r", 3)
+    .on("mouseover", nodeMouseover)
+      .on("mouseout", mouseout)
+    .style("fill", function(d) { return color(d.x); });
+
+function degrees(radians) {
+  return radians / Math.PI * 180 - 90;
+}
+
+// Highlight the link and connected nodes on mouseover.
+  function linkMouseover(d) {
+    svg.selectAll(".link").classed("active", function(p) { return p === d; });
+    svg.selectAll(".node circle").classed("active", function(p) { return p === d.source.node || p === d.target.node; });
+    info.text(d.source.node.id + " → " + d.target.node.id);
+  }
+
+  // Highlight the node and connected links on mouseover.
+  function nodeMouseover(d) {
+    svg.selectAll(".link").classed("active", function(p) { return p.source.node === d || p.target.node === d; });
+    d3.select(this).classed("active", true);
+    info.text(d.id);
+  }
+
+  // Clear any highlighted nodes or links.
+  function mouseout() {
+    svg.selectAll(".active").classed("active", false);
+    info.text(defaultInfo);
+  }
+
+// A shape generator for Hive links, based on a source and a target.
+// The source and target are defined in polar coordinates (angle and radius).
+// Ratio links can also be drawn by using a startRadius and endRadius.
+// This class is modeled after d3.svg.chord.
+function link() {
+  var source = function(d) { return d.source; },
+      target = function(d) { return d.target; },
+      angle = function(d) { return d.angle; },
+      startRadius = function(d) { return d.radius; },
+      endRadius = startRadius,
+      arcOffset = -Math.PI / 2;
+
+  function link(d, i) {
+    var s = node(source, this, d, i),
+        t = node(target, this, d, i),
+        x;
+    if (t.a < s.a) x = t, t = s, s = x;
+    if (t.a - s.a > Math.PI) s.a += 2 * Math.PI;
+    var a1 = s.a + (t.a - s.a) / 3,
+        a2 = t.a - (t.a - s.a) / 3;
+    return s.r0 - s.r1 || t.r0 - t.r1
+        ? "M" + Math.cos(s.a) * s.r0 + "," + Math.sin(s.a) * s.r0
+        + "L" + Math.cos(s.a) * s.r1 + "," + Math.sin(s.a) * s.r1
+        + "C" + Math.cos(a1) * s.r1 + "," + Math.sin(a1) * s.r1
+        + " " + Math.cos(a2) * t.r1 + "," + Math.sin(a2) * t.r1
+        + " " + Math.cos(t.a) * t.r1 + "," + Math.sin(t.a) * t.r1
+        + "L" + Math.cos(t.a) * t.r0 + "," + Math.sin(t.a) * t.r0
+        + "C" + Math.cos(a2) * t.r0 + "," + Math.sin(a2) * t.r0
+        + " " + Math.cos(a1) * s.r0 + "," + Math.sin(a1) * s.r0
+        + " " + Math.cos(s.a) * s.r0 + "," + Math.sin(s.a) * s.r0
+        : "M" + Math.cos(s.a) * s.r0 + "," + Math.sin(s.a) * s.r0
+        + "C" + Math.cos(a1) * s.r1 + "," + Math.sin(a1) * s.r1
+        + " " + Math.cos(a2) * t.r1 + "," + Math.sin(a2) * t.r1
+        + " " + Math.cos(t.a) * t.r1 + "," + Math.sin(t.a) * t.r1;
+  }
+
+  function node(method, thiz, d, i) {
+    var node = method.call(thiz, d, i),
+        a = +(typeof angle === "function" ? angle.call(thiz, node, i) : angle) + arcOffset,
+        r0 = +(typeof startRadius === "function" ? startRadius.call(thiz, node, i) : startRadius),
+        r1 = (startRadius === endRadius ? r0 : +(typeof endRadius === "function" ? endRadius.call(thiz, node, i) : endRadius));
+    return {r0: r0, r1: r1, a: a};
+  }
+
+  link.source = function(_) {
+    if (!arguments.length) return source;
+    source = _;
+    return link;
+  };
+
+  link.target = function(_) {
+    if (!arguments.length) return target;
+    target = _;
+    return link;
+  };
+
+  link.angle = function(_) {
+    if (!arguments.length) return angle;
+    angle = _;
+    return link;
+  };
+
+  link.radius = function(_) {
+    if (!arguments.length) return startRadius;
+    startRadius = endRadius = _;
+    return link;
+  };
+
+  link.startRadius = function(_) {
+    if (!arguments.length) return startRadius;
+    startRadius = _;
+    return link;
+  };
+
+  link.endRadius = function(_) {
+    if (!arguments.length) return endRadius;
+    endRadius = _;
+    return link;
+  };
+
+  return link;
+}
+});
+
+</script>
+
+<footer>
+  <aside>July 28, 2014</aside>
+  <a href="http://meefen.github.io/" rel="author">Bodong Chen</a>
+</footer>
+
+</body>

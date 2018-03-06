@@ -1,0 +1,55 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Bodong Chen"
+theme = "hugo-ivy"
+googleAnalytics = "UA-50108133-1"
+disqusShortname = "meefen"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+    cn   = "/cn/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+[[menu.main]]
+    name = "Publications"
+    url = "/cv/"
+    weight = 3
+[[menu.main]]
+    name = "Open Scholar"
+    url = "/notes/"
+    weight = 4
+# [[menu.main]]
+#     name = "Categories"
+#     url = "/categories/"
+#     weight = 3
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 5
+[[menu.main]]
+    name = "博客"
+    url = "/cn/"
+    weight = 5
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "Crisscross Landscapes"
+    footer = "&copy; [Bodong Chen](http://bodong.ch/) 2018 | [Github](https://github.com/meefen) | [Twitter](https://twitter.com/bod0ng)"
+
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml", "tex"]
+  highlightjsTheme = "github"
