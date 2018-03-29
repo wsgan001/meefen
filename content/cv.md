@@ -5,17 +5,17 @@ date: '2018-02-18'
 
 ### In press
 
-1.  Fan, Y., Zhang, G., **Chen, B.**, & Wang, Q. (in press). Why did they come back? Analyzing motivations for repeated enrollment in MOOCs [in Chinese]. *Open Education Research*.
 1.  Hong, H.-Y., Chen, B., Zhang, J., & Messina, R. (in press). Moving from belief mode to design mode of teaching practices: A knowledge building approach. In J. Zhang, & S. Yu (Eds.), *Educational Innovations for Sustained Knowledge Building: Pedagogical and Technological Innovations*. Singapore: Springer.
 
 ### 2018
 
-1.  **Chen, B.**, Knight, S., & Wise, A. F. (2018). Critical issues in designing and implementing temporal analytics. *Journal of Learning Analytics, 5*(1).
 1.  **Chen, B.**, Chang, Y.-H., Ouyang, F., & Zhou, W. (2018). Fostering student engagement in online discussion through social learning analytics. *The Internet and Higher Education*. https://doi.org/10.1016/j.iheduc.2017.12.002
+1.  **Chen, B.**, Knight, S., & Wise, A. F. (2018). Critical issues in designing and implementing temporal analytics. *Journal of Learning Analytics, 5*(1).
+1.  Fan, Y., Zhang, G., **Chen, B.**, & Wang, Q. (2018). [Why did they come back?: Analyzing motivations for repeated enrollment in MOOCs](http://openedu.shtvu.org.cn/frontsite/series_details.asp?id=2015) [in Chinese: 他们为什么回来？ＭＯＯＣｓ中重复注册者行为与动机分析]. *Open Education Research, 24*(2), 89-96.
 1.  Lund, K., **Chen, B.**, Gaudwin, S. (2018). The potential of interdisciplinarity in MOOC research: How do researchers in education and computer science compare?. In *Proceedings of the 2018 Learning @ Scale Conference*. London, UK: ACM Press.
+1. **Chen, B.**, Chen, C.-M., Hong, H.-Y., & Chai, C. S. (2018). Learning analytics: Approaches and cases from Asia. In *The Routledge Handbook on Schools and Schooling in Asia*. Routledge.
 1. **Chen, B.**, & Fan, Y. (2018). Learning analytics: Perspectives from Mainland China. In C. P. Lim & V. L. Tinio (Eds.), *Learning analytics for the Global South (pp. 36–43)*. Quezon City, Philippines: Foundation for Information Technology Education and Development.
 1.  Huang, T., & **Chen, B.** (2018). Uncovering the rich club phenomenon in an online class. In *Proceedings of the 2018 ICLS Conference*. London, UK: ISLS.
-1. **Chen, B.**, Chen, C.-M., Hong, H.-Y., & Chai, C. S. (2018). Learning analytics: Approaches and cases from Asia. In *The Routledge Handbook on Schools and Schooling in Asia*. Routledge.
 
 ### 2017
 
