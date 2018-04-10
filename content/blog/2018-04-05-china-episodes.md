@@ -22,9 +22,9 @@ The last sentence of the voice system was new. The intimate connection between u
 ![](http://sns-img.b0.upaiyun.com/dunzd/1710/2621/53/151240667855781509026035.jpg)
 *([Image Source](http://www.cdsb.com/Public/cdsb_offical/2017-10-26/148418749157279040888484000860608264626.html))*
 
-## "Say Some English"
+## "Say Something in English"
 
-On a workday, my pre-schooler son and I were playing in a playground in Shanghai. There were a bunch of other kids -- mostly younger -- also playing there. My son always prefers talking with me in Mandarin but may entertain with a few English words from time to time. Then there was a dad with his young daughter (approximately 2 years old). It didn't take long for him to make a request to his daughter: **"Baby, can you say some English?"**  The same thing happened again the next day in a park.
+On a workday, my pre-schooler son and I were playing in a playground in Shanghai. There were a bunch of other kids -- mostly younger -- also playing there. My son always prefers talking with me in Mandarin but may entertain with a few English words from time to time. Then there was a dad with his young daughter (approximately 2 years old). It didn't take long for him to make a request to his daughter: **"Baby, can you say something in English?"**  The same thing happened again the next day in a park.
 
 A few days later when I was in my hometown, a small town in Western China, I visited a newly built factory where an uncle works. This factory manufactures food supplements with nutritions extracted from traditional Chinese herbs. I somehow ended up meeting with their young sales team, which was made of four fresh college graduates. They were in their early 20s, and two of them graduated from the same high school I attended. Then I began to learn about their goals of taking over their international sales from intermediaries located in costal areas. They were not confident in their English capabilities though and showed tremendous interests in Western culture(s).
 

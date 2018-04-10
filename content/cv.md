@@ -1,21 +1,29 @@
 ---
 title: Publications
-date: '2018-02-18'
+date: '2018-04-10'
 ---
+
+- ORCiD: <a href="https://orcid.org/0000-0003-4616-4353" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-4616-4353</a>
+- [Google Scholar](https://scholar.google.com/citations?user=BWrZE-MAAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Bodong_Chen)
 
 ### In press
 
-1. **Chen, B.** (in press). Designing for collaborative discourse in an online class: An 'unLMS' approach. *TechTrends*. [preprint](osf.io/ebjfp)
+1. **Chen, B.** (in press). Designing for collaborative discourse in an online class: An 'unLMS' approach. *TechTrends*. [[preprint](http://osf.io/ebjfp)]
 1.  Hong, H.-Y., Chen, B., Zhang, J., & Messina, R. (in press). Moving from belief mode to design mode of teaching practices: A knowledge building approach. In J. Zhang, & S. Yu (Eds.), *Educational Innovations for Sustained Knowledge Building: Pedagogical and Technological Innovations*. Singapore: Springer.
+
+<!--
+[[❤OA❤]()]
+ -->
 
 ### 2018
 
 1.  **Chen, B.**, Chang, Y.-H., Ouyang, F., & Zhou, W. (2018). Fostering student engagement in online discussion through social learning analytics. *The Internet and Higher Education*. https://doi.org/10.1016/j.iheduc.2017.12.002
-1.  **Chen, B.**, Knight, S., & Wise, A. F. (2018). Critical issues in designing and implementing temporal analytics. *Journal of Learning Analytics, 5*(1).
-1.  Fan, Y., Zhang, G., **Chen, B.**, & Wang, Q. (2018). [Why did they come back?: Analyzing motivations for repeated enrollment in MOOCs](http://openedu.shtvu.org.cn/frontsite/series_details.asp?id=2015) [in Chinese: 他们为什么回来？MOOCs中重复注册者行为与动机分析]. *Open Education Research, 24*(2), 89-96.
+1.  **Chen, B.**, Knight, S., & Wise, A. F. (2018). Critical issues in designing and implementing temporal analytics. *Journal of Learning Analytics, 5*(1), 1-9. https://doi.org/10.18608/jla.2018.53.1 [[❤OA❤](https://www.researchgate.net/publication/324374527_Critical_issues_in_designing_and_implementing_temporal_analytics)]
+1.  Fan, Y., Zhang, G., **Chen, B.**, & Wang, Q. (2018). [Why did they come back?: Analyzing motivations for repeated enrollment in MOOCs](http://openedu.shtvu.org.cn/frontsite/series_details.asp?id=2015) [in Chinese: 他们为什么回来？MOOCs中重复注册者行为与动机分析]. *Open Education Research, 24*(2), 89-96. [[❤OA❤](http://openedu.shtvu.org.cn/frontsite/series_details.asp?id=2015)]
 1.  Lund, K., **Chen, B.**, Gaudwin, S. (2018). The potential of interdisciplinarity in MOOC research: How do researchers in education and computer science compare?. In *Proceedings of the 2018 Learning @ Scale Conference*. London, UK: ACM Press.
-1. **Chen, B.**, Chen, C.-M., Hong, H.-Y., & Chai, C. S. (2018). Learning analytics: Approaches and cases from Asia. In *The Routledge Handbook on Schools and Schooling in Asia*. Routledge.
-1. **Chen, B.**, & Fan, Y. (2018). Learning analytics: Perspectives from Mainland China. In C. P. Lim & V. L. Tinio (Eds.), *Learning analytics for the Global South (pp. 36–43)*. Quezon City, Philippines: Foundation for Information Technology Education and Development.
+1. **Chen, B.**, Chen, C.-M., Hong, H.-Y., & Chai, C. S. (2018). Learning analytics: Approaches and cases from Asia. In K. J. Kennedy & J. C.-K. Lee (Eds.), *[Routledge International Handbook of Schools and Schooling in Asia](https://www.routledge.com/Routledge-International-Handbook-of-Schools-and-Schooling-in-Asia/Kennedy-Lee/p/book/9781138908499)* (pp. 419–432). New York, NY: Routledge.
+1. **Chen, B.**, & Fan, Y. (2018). Learning analytics: Perspectives from Mainland China. In C. P. Lim & V. L. Tinio (Eds.), *Learning analytics for the Global South (pp. 36–43)*. Quezon City, Philippines: Foundation for Information Technology Education and Development. [[❤OA❤](http://dl4d.org/portfolio-items/learning-analytics-for-the-global-south/)]
 1.  Huang, T., & **Chen, B.** (2018). Uncovering the rich club phenomenon in an online class. In *Proceedings of the 2018 ICLS Conference*. London, UK: ISLS.
 
 ### 2017
