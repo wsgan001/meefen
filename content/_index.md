@@ -5,11 +5,13 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
+### Short Bio:
+
 <img src="http://bodong.ch/assets/images/bodong.jpg" style="max-width:20%;min-width:80px;float:right;" alt="Bodong Chen" />
 
-Bodong Chen is an Assistant Professor in the [Department of Curriculum and Instruction](http://www.cehd.umn.edu/ci/) in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/).
+Bodong Chen is an Assistant Professor in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). His research is at the intersection of [CSCL](https://en.wikipedia.org/wiki/Computer-supported_collaborative_learning), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network analysis](https://en.wikipedia.org/wiki/Network_science). Bodong's work is broadly published in premier venues and funded by the [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657009), the [Digital Learning for Development initiative](http://dl4d.org/), etc. Bodong holds a Bachelor of Science from [Beijing Normal University](http://english.bnu.edu.cn/), a Master of Education from [Peking University](http://english.pku.edu.cn/), and a Ph.D. from [OISE/University of Toronto](http://www.oise.utoronto.ca/oise/Home/index.html).
 
-His major research areas include CSCL, learning analytics, network analysis, and networked learning. See [CoLIG](https://colig.github.io/research/) for details.
+See [CoLIG](https://colig.github.io/research/) for Bodong's research projects.
 
 <hr>
 
