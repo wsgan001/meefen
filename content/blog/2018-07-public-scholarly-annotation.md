@@ -1,5 +1,5 @@
 ---
-title: "My Ongoing Experiment: Public Scholarly Annotation"
+title: "An Ongoing Experiment: Public Scholarly Annotation"
 date: '2018-07-18'
 categories: blog
 tags: [open scholarship, openness, academia]
@@ -21,6 +21,8 @@ This post will be an evolving document reflecting my ongoing thinking on *open s
 
 In Phase 1, I will publicly annotate web documents about *open scholarly annotation*, using [Hypothes.is](https://hypothes.is/) and a tag `ValueAnnotation`. Below is an evolving collection of my annotations, and I invite you to annotate with me using the same tag.
 
+<!-- <iframe width="560" height="500" src="/images/article_images/hypothesis.html" frameborder="0" allowfullscreen></iframe> -->
+
 <iframe width="560" height="600" src="https://hypothes.is/search?q=tag:%22ValueAnnotation%22" frameborder="0" allowfullscreen></iframe>
 
 Here is an example of a Hypothesis annotation I created.
@@ -30,5 +32,11 @@ Here is an example of a Hypothesis annotation I created.
 ### Phase 2
 
 This is an emerging process. The next step, as I see now, is to make sense of generated annotations and update this post with summaries and new ideas that 'rise above' existing ones.
+
+----
+
+**Update** (2018-7-20): In preparation for an [AERA 2019](http://www.aera.net/Events-Meetings/Annual-Meeting/2019-Annual-Meeting-Theme) submission, I wrote a research summary describing what I hope to do next. The summary -- embedded below -- is informed by Hypothesis annotations above. However, I found it difficult to demonstrate the 'moves' from annotations to writing.
+
+<iframe width="100%" height="600" src="https://docs.google.com/document/d/e/2PACX-1vR2KgWL47pKHyfDr_YRnIbJEutWQynICTNxusVrsVXHFjyiTODXxU06mihU6kaHrqUJR8haky2kL3q-/pub" frameborder="1" allowfullscreen></iframe>
 
 __*To be continued...*__
