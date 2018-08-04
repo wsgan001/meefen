@@ -9,8 +9,9 @@ date: '2018-04-10'
 
 ### In press
 
-1. **Chen, B.** (in press). Designing for collaborative discourse in an online class: An 'unLMS' approach. *TechTrends*. [[preprint](http://osf.io/ebjfp)]
-1.  Hong, H.-Y., Chen, B., Zhang, J., & Messina, R. (in press). Moving from belief mode to design mode of teaching practices: A knowledge building approach. In J. Zhang, & S. Yu (Eds.), *Educational Innovations for Sustained Knowledge Building: Pedagogical and Technological Innovations*. Singapore: Springer.
+1. Cai, Q., **Chen, B.**, Wu, H., & Trussell, G. (in press). Using differentiated feedback to improve performance in introductory statistics *Innovations in Education and Teaching International*. https://doi.org/10.1080/14703297.2018.1508362 (2017 Impact Factor
+1.106)
+1.  Hong, H.-Y., **Chen, B.**, Zhang, J., & Messina, R. (in press). Moving from belief mode to design mode of teaching practices: A knowledge building approach. In J. Zhang, & S. Yu (Eds.), *Educational Innovations for Sustained Knowledge Building: Pedagogical and Technological Innovations*. Singapore: Springer.
 
 <!--
 [[❤OA❤]()]
@@ -18,18 +19,19 @@ date: '2018-04-10'
 
 ### 2018
 
+1. **Chen, B.** (2018). Designing for networked collaborative discourse: An unLMS approach. *TechTrends*, 1–8. https://doi.org/10.1007/s11528-018-0284-7. [[preprint](http://osf.io/ebjfp)]
 1.  **Chen, B.**, Chang, Y.-H., Ouyang, F., & Zhou, W. (2018). Fostering student engagement in online discussion through social learning analytics. *The Internet and Higher Education*. https://doi.org/10.1016/j.iheduc.2017.12.002
 1.  **Chen, B.**, Knight, S., & Wise, A. F. (2018). Critical issues in designing and implementing temporal analytics. *Journal of Learning Analytics, 5*(1), 1-9. https://doi.org/10.18608/jla.2018.53.1 [[❤OA❤](https://www.researchgate.net/publication/324374527_Critical_issues_in_designing_and_implementing_temporal_analytics)]
 1.  Fan, Y., Zhang, G., **Chen, B.**, & Wang, Q. (2018). [Why did they come back?: Analyzing motivations for repeated enrollment in MOOCs](http://openedu.shtvu.org.cn/frontsite/series_details.asp?id=2015) [in Chinese: 他们为什么回来？MOOCs中重复注册者行为与动机分析]. *Open Education Research, 24*(2), 89-96. [[❤OA❤](http://openedu.shtvu.org.cn/frontsite/series_details.asp?id=2015)]
-1.  Lund, K., **Chen, B.**, Gaudwin, S. (2018). The potential of interdisciplinarity in MOOC research: How do researchers in education and computer science compare?. In *Proceedings of the 2018 Learning @ Scale Conference*. London, UK: ACM Press.
-1. **Chen, B.**, Chen, C.-M., Hong, H.-Y., & Chai, C. S. (2018). Learning analytics: Approaches and cases from Asia. In K. J. Kennedy & J. C.-K. Lee (Eds.), *[Routledge International Handbook of Schools and Schooling in Asia](https://www.routledge.com/Routledge-International-Handbook-of-Schools-and-Schooling-in-Asia/Kennedy-Lee/p/book/9781138908499)* (pp. 419–432). New York, NY: Routledge.
+1.  Lund, K., **Chen, B.**, Gaudwin, S. (2018). The potential of interdisciplinarity in MOOC research: How do researchers in education and computer science compare?. In *Proceedings of the 2018 Learning @ Scale Conference*. London, UK: ACM Press. https://doi.org/10.1145/3231644.3231661 [[preprint](](https://www.researchgate.net/publication/325053254_The_Potential_of_Interdisciplinarity_in_MOOC_Research_How_Do_Education_and_Computer_Science_Intersect))]
+1. **Chen, B.**, Chen, C.-M., Hong, H.-Y., & Chai, C. S. (2018). Learning analytics: Approaches and cases from Asia. In K. J. Kennedy & J. C.-K. Lee (Eds.), *[Routledge International Handbook of Schools and Schooling in Asia](https://www.routledgehandbooks.com/doi/10.4324/9781315694382)* (pp. 419–432). New York, NY: Routledge.
 1. **Chen, B.**, & Fan, Y. (2018). Learning analytics: Perspectives from Mainland China. In C. P. Lim & V. L. Tinio (Eds.), *Learning analytics for the Global South (pp. 36–43)*. Quezon City, Philippines: Foundation for Information Technology Education and Development. [[❤OA❤](http://dl4d.org/portfolio-items/learning-analytics-for-the-global-south/)]
 1.  Huang, T., & **Chen, B.** (2018). Uncovering the rich club phenomenon in an online class. In *Proceedings of the 2018 ICLS Conference*. London, UK: ISLS.
 
 ### 2017
 
 1.  **Chen, B.** (2017). Fostering scientific understanding and epistemic beliefs through judgments of promisingness. *Educational Technology Research and Development, 65*(2), 255–277. https://doi.org/10.1007/s11423-016-9467-0 [[preprint](https://www.researchgate.net/publication/305229851_Fostering_scientific_understanding_and_epistemic_beliefs_through_promisingness_judgments)]
-1.  **Chen, B.**, Resendes, M., Chai, C.S., & Hong, H.-Y. (2017). Two tales of time: uncovering the significance of sequential patterns among contribution types in knowledge-building discourse. *Interactive Learning Environments, 25*(2), 162–175. https://doi.org/10.1080/10494820.2016.1276081 [[RG](https://www.researchgate.net/publication/312643512_Two_tales_of_time_uncovering_the_significance_of_sequential_patterns_among_contribution_types_in_knowledge-building_discourse)]
+1.  **Chen, B.**, Resendes, M., Chai, C.S., & Hong, H.-Y. (2017). Two tales of time: uncovering the significance of sequential patterns among contribution types in knowledge-building discourse. *Interactive Learning Environments, 25*(2), 162–175. https://doi.org/10.1080/10494820.2016.1276081 [[preprint](https://www.researchgate.net/publication/312643512_Two_tales_of_time_uncovering_the_significance_of_sequential_patterns_among_contribution_types_in_knowledge-building_discourse)]
 1.  Knight, S., Wise, A. F., & **Chen, B.** (2017). Time for change: Why learning analytics needs temporal analysis. *Journal of Learning Analytics, 4*(3), 7–17. https://doi.org/10.18608/jla.2017.43.2  (*Note*: A guest editorial for the Special Section on Temporal Analytics)
 1.  **Chen, B.** & Huang, T.G (2017). Unpacking Learning Analytics: An attempt to tilt the iceberg [in Chinese]. *Journal of Open Learning, 22*(4), 1-9. doi:10.19605/j.cnki.kfxxyj.2017.04.001 [[preprint](https://www.researchgate.net/publication/317586037_Unpacking_Learning_Analytics_An_Attempt_to_Tilt_the_Iceberg)]
 1.  Wang, Q., **Chen, B.**, Fan, Y., & Zhang, G. (2017). *MOOCs as an alternative for teacher professional development: Examining learner persistence in one Chinese MOOC*. Final project report, DL4D, Manila, The Philippines.
