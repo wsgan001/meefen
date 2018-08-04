@@ -1,8 +1,11 @@
 {{ partial "header.html" . }}
 
+<!-- Display _index.md -->
 {{ if .Content }}
-{{ .Content }}
-{{ else }}
+  {{ .Content }}
+{{ end }}
+
+<!-- Display posts under the folder -->
 <div class="archive">
   {{ range .Pages.GroupByDate "2006" }}
   <h2 class="archive-title">{{ .Key }}</h2>
@@ -14,6 +17,6 @@
   {{ end }}
   {{ end }}
 </div>
-{{ end }}
+
 
 {{ partial "footer.html" . }}
