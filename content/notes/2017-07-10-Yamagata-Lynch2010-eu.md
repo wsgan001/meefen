@@ -4,6 +4,7 @@ categories: notes
 title: 'Notes: Yamagata-Lynch, L. C. (2010). Understanding Cultural Historical Activity Theory'
 tags:
 - activity theory
+date: 2017-08-10
 ---
 
 ## References
