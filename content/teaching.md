@@ -11,7 +11,7 @@ __CI 8134-35: Foundations of Research in Curriculum and Instruction__
 __CI 8371: Applied Social Network Analysis in Education__\*
 
 - An introduction to social network analysis for graduate students in education
-- [Course website](bookdown.org/chen/snaEd/)
+- [Course website](http://bookdown.org/chen/snaEd/)
 
 __CI 5371: Learning Analytics: Theory and Practice__\*
 

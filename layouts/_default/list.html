@@ -6,17 +6,20 @@
 {{ end }}
 
 <!-- Display posts under the folder -->
-<div class="archive">
-  {{ range .Pages.GroupByDate "2006" }}
-  <h2 class="archive-title">{{ .Key }}</h2>
-  {{ range .Pages }}
-  <p>
-    <span>{{ .Date.Format "2006-01-02" }}</span>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </p>
-  {{ end }}
-  {{ end }}
-</div>
+{{ if ne .Title "Homepage" }}
+  <div class="archive">
+    {{ range .Pages.GroupByDate "2006" }}
+    <h2 class="archive-title">{{ .Key }}</h2>
+    {{ range .Pages }}
+    <p>
+      <span>{{ .Date.Format "2006-01-02" }}</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </p>
+    {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
+
 
 
 {{ partial "footer.html" . }}
