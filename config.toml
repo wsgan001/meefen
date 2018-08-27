@@ -47,7 +47,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "Crisscross Landscapes"
-    footer = "&copy; [Bodong Chen](http://bodong.ch/) 2015-2018 | [Github](https://github.com/meefen) | [Twitter](https://twitter.com/bod0ng)"
+    footer = "&copy; [Bodong Chen](http://meefen.github.io/) 2015-2018 | [Github](https://github.com/meefen) | [Twitter](https://twitter.com/bod0ng)"
     author = "Bodong Chen"
 
   highlightjsVersion = "9.12.0"
