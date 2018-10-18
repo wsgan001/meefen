@@ -1,6 +1,6 @@
 ---
 title: Teaching
-date: '2018-02-18'
+date: '2018-10-18'
 ---
 
 __CI 8134-35: Foundations of Research in Curriculum and Instruction__
@@ -11,11 +11,12 @@ __CI 8134-35: Foundations of Research in Curriculum and Instruction__
 __CI 8371: Applied Social Network Analysis in Education__\*
 
 - An introduction to social network analysis for graduate students in education
-- [Course website](http://bookdown.org/chen/snaEd/)
+- [Spring '17](http://bookdown.org/chen/snaEd/)
 
 __CI 5371: Learning Analytics: Theory and Practice__\*
 
 - A general survey of the nascent field of learning analytics and its applications in various educational contexts
+  - [Fall '18](https://colig.github.io/laumn/)
   - [Spring '16](https://github.com/meefen/la-spring16)
   - [Spring '15](https://github.com/meefen/LA-UMN)
 
